@@ -12,10 +12,12 @@
 - motivational quotes and success stories
 - notifications for habit reminders
 
-### About me 
-## im rakes and i built it ^_^
+## About me 
+### im rakes and i built it ^_^
    <div>
+    
    ![image](cat.jpg)
+   
    </div>
 
 
